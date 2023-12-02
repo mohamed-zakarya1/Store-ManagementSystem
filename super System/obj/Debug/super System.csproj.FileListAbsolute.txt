@@ -1,0 +1,30 @@
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.csproj.AssemblyReference.cache
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\MainWindow.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\ProductsPage.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\sellersPage.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\SellerUser.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\StorePage.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\App.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System_MarkupCompile.cache
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System_MarkupCompile.lref
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\super System.exe.config
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\super System.exe
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\super System.pdb
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\App.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\MainWindow.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\ProductsPage.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\sellersPage.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\SellerUser.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\StorePage.baml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.g.resources
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super_System.Properties.Resources.resources
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.csproj.GenerateResource.cache
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.csproj.CoreCompileInputs.cache
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.exe
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.pdb
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System_Content.g.cs
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\EntityFramework.dll
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\EntityFramework.xml
+C:\Users\Compu Tech\source\repos\super System\super System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Compu Tech\source\repos\super System\super System\obj\Debug\super System.csproj.CopyComplete

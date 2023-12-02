@@ -1,0 +1,32 @@
+﻿<Page x:Class="super_System.StorePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:super_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" Background="white" d:DesignWidth="800"
+      Title="StorePage">
+
+
+    <Grid RenderTransformOrigin="0.403,0.523">
+        <Label FontSize="30" Foreground="Orange" Margin="168,8,162,388" Content=" Store Management System"/>
+        <Label Panel.ZIndex="1" FontSize="20" Foreground="Blue" Margin="437,83,216,332">Select The Role</Label>
+        <Label Panel.ZIndex="1" FontSize="20" Foreground="Blue" Margin="383,181,255,234">Enter UserName</Label>
+        <Label Panel.ZIndex="1" FontSize="20" Foreground="Blue" Margin="383,264,255,151">Enter Password</Label>
+        <ComboBox Name="combo" Margin="383,118,162,301">
+            <ComboBoxItem>User</ComboBoxItem>
+            <ComboBoxItem>Admin</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="txtUserName" Style="{StaticResource BottomLineTextBox}" Margin="383,225,162,203"/>
+        <TextBox x:Name="txtPassword" Style="{StaticResource BottomLineTextBox}" Margin="383,304,162,121"/>
+        <Button x:Name="btnLogin"  Style="{StaticResource ButtonStyles}" Margin="151,358,500,49" Click="btnLogin_Click">Login</Button>
+        <Button x:Name="btnReset" Style="{StaticResource ButtonStyles}" Margin="464,358,187,49" Click="btnReset_Click">Reset</Button>
+        <Image Height="100" Margin="123,166,538,184" Source="/images (1).jpeg"/>
+        <Button Margin="705,0,0,388" RenderTransformOrigin="-0.406,0.618" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/images.jpeg"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StoreManagementSystemModel1StoreContainer" CdmEntityContainer="StoreManagementSystemEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="StoreManagementSystemModel1.Admin">
+        <MappingFragment StoreEntitySet="Admins">
+          <ScalarProperty Name="UserNames" ColumnName="UserNames" />
+          <ScalarProperty Name="Passwords" ColumnName="Passwords" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="StoreManagementSystemModel1.Product">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="Prd_Id" ColumnName="Prd_Id" />
+          <ScalarProperty Name="Prd_Names" ColumnName="Prd_Names" />
+          <ScalarProperty Name="Prd_Quantity" ColumnName="Prd_Quantity" />
+          <ScalarProperty Name="Prd_Price" ColumnName="Prd_Price" />
+          <ScalarProperty Name="Prd_catg" ColumnName="Prd_catg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sellers">
+      <EntityTypeMapping TypeName="StoreManagementSystemModel1.seller">
+        <MappingFragment StoreEntitySet="sellers">
+          <ScalarProperty Name="Sell_ID" ColumnName="Sell_ID" />
+          <ScalarProperty Name="Sell_Name" ColumnName="Sell_Name" />
+          <ScalarProperty Name="Sell_Age" ColumnName="Sell_Age" />
+          <ScalarProperty Name="Sell_no" ColumnName="Sell_no" />
+          <ScalarProperty Name="Passwords" ColumnName="Passwords" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="StoreManagementSystemModel1.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserNames" ColumnName="UserNames" />
+          <ScalarProperty Name="Passwords" ColumnName="Passwords" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
